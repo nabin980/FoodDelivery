@@ -39,12 +39,11 @@
 .food-item-image-container{
     position: relative;
     .add{
-        width: 35px;
+        width: 20px;
         position: absolute;
         bottom: 15px;
         right: 15px;
         cursor: pointer;
-        border-radius: 50%;
     }
     .food-item-counter{
         position: absolute;
